@@ -1,0 +1,266 @@
+{
+  "language.name": "French",
+  "language.region": "France",
+  "language.code": "fr_fr",
+  
+  
+  
+  
+  
+  
+  "Incendium":"Incendium",
+  "Explore the terrifying, and rewarding, Incendium Nether":"Explore le terrifiant, mais gratifiant, Nether d'Incendium",
+
+
+  "Darude - Firestorm":"Darude - Firestorm",
+  "Experience the blazing heat of the Infernal Dunes":"Découvre les chaleurs brûlantes des Dunes Infernales",  
+
+  "Light-Sensitive":"Photo-sensible",
+  "Kill one of the odd Desert Blazes native to the Infernal Dunes":"Tuez un Blaze du désert vivant dans les Dunes Infernales",
+
+  "Border of Life":"Border of Life",
+  "Kill a Desert Blaze on the boundary of light and dark to get both of its drops":"Tuez un Blaze du désert à la bordure entre l'ombre et la lumière pour obtenir tout son butin",  
+
+  "Beyond the Embers":"Au-delà des braises",
+  "The shrine... demands a sacrifice.":"Le piédestal demande... Un sacrifice.",
+
+  "Risen from Fire":"Ressuscité par les flammes",
+  "Sacrifice a nether star at an altar to summon the Hovering Inferno":"Sacrifiez une étoile du nether sur l'autel invoquer le Brasier Plannant",  
+
+  "Run.":"Courez.",
+  "You can't kill the Inferno. Just survive to win.":"Vous ne pouvez achever le Brasier Plannant. Survivez pour le vaincre.",  
+
+  "Fallen to Ashes":"Tombé en cendres",
+  "Survive the Inferno's last spell and claim your reward":"Survivez au dernier sort du Brasier Plannant et récupérez votre récompense", 
+  
+  "Lunatic Mode":"Difficulté : Taré",
+  "Survive the Inferno's final phase with no armor":"Survivez à la dernière phase du Brasier Plannant sans armure",  
+
+  "Forged in Flames":"Forgé dans les flammes",
+  "Use the Infernal Feather to upgrade your elytra in a Smithing Table": "Utilisez une Plume Infernale avec une paire d'élytres sur une table de forgeron",
+
+
+  "The Dust Settles":"La poussière retombe",
+  "Enter the Ash Barrens, the forgotten home to the Forbidden Castle":"Entrez dans les Terres Cendrées, le berceau oublié de la Forteresse Interdite",
+  
+  "In the Hall of the Piglin King":"In the Hall of the Piglin King",
+  "Enter a Forbidden Castle at your own peril":"Pénétrez dans la cour du Forteresse Interdite",  
+
+  "The Conqueror":"Le Conquérant",
+  "Storm a Forbidden Castle and kill every last piglin living inside":"Prennez d'assaut la Forteresse Interdite et éliminez tout les Piglins vivant à l'intérieur",  
+  
+  "Duel of the Fates":"Duel of the Fates",
+  "Give a Sentry a taste of its own medicine":"Rendez la pareille à une Sentinelle",  
+  
+
+  "Hellfire Mantle":"Manteau Infernal",
+  "Enter the chaotic Volcanic Deltas":"Découvrez le chaotique Delta Volcanique",  
+  
+  "Treacherous Heights":"Hauteurs perfides",
+  "Mine the exposed ancient debris in the height of the Volcanic Deltas":"Minez un ancient débris pouvant être trouvé dans les hauteurs du Delta Volcanique",  
+  
+
+  "Hellish Paradise":"Paradis Diabolique",
+  "Beware the beautiful and deadly Quartz Flats":"Gare aux merveilleux et mortels Plateaux de Quartz",  
+
+  "The Floor is Tears": "Le sol c'est des larmes",
+  "Brave the Quartz Flats' frozen lava seas":"Bravez les oceans de lave gelée des Plateaux de Quartz",
+
+  "Ghast Buster":"Ghast Buster!",
+  "Kill a ghast on its home turf above the frozen lava seas":"Tuez un ghast dans son territoire naturel, les oceans de lave gelée",
+
+  "\"Special\" Delivery":"Livraison \"spéciale\"",
+  "Afflict a ghast with Speed, Regeneration and Invisibility -- then kill it to obtain its Ghastling":"Donnez à un ghast les effets vitesse, régénération et invisibilité -- puis tuez-le pour obtenir un oeuf de Bébé Ghast",  
+
+  "Feed the Beast":"L'avioooon",
+  "Feed a Ghastling its odd favorite food - fire charges - to make it follow you":"Nourissez un Bébé Ghast avec sa nourriture favorite - des boules feu - pour qu'il vous suive",  
+
+  "You Fool!":"Pauvre fou!",
+  "Kill the skeleton chef Torte and loot his kitchen":"Tuez le chef squelette Torte et pillez sa cuisine",  
+  
+  "Kitchen's Treasure":"Le trésor de la cuisine",
+  "Find the hidden treasure in the Quartz Kitchen":"Trouvez le trésor caché dans la Cuisine de Quartz", 
+  
+  "An Illager Refuge?":"Un refuge d'Illageois?",
+  "The Illagers' Sanctum might not be so holy...":"Le Sanctuaire des Illageois n'a pas l'air si saint...", 
+
+
+  "Ancient Battlefield":"Ancient champ de bataille",
+  "Enter the Withered Forest, ancestral battleground of the Piglins and Wither Skeletons":"Pénétrez dans la Forêt Fanée, un champ de bataille ancestral entre les Piglins et les Wither squelettes",
+
+  "Apparitions":"Apparitions",
+  "Kill a restless spirit":"Tuez une âme sans repos",  
+
+  "Ghostbuster":"Ghostbuster!",
+  "Put on some chain armor and use it to dispel a restless spirit":"Portez une armure en maille et utilisez-la pour libérer une âme sans repos",  
+
+  "Alchemical Experiments":"Expériences alchimiques",
+  "The piglin's experiments backfired leading to a dangerous situation":"Les expériences des Piglins se sont retournées contre eux, menant à une situation embêtante",  
+
+
+  "Radioactive":"Radioactive",
+  "Enter the nuclear wastelands of the Toxic Heap":"Découvrez les terres désolées nucléaires des Amas Toxiques",
+
+  "Toxic Personality":"Personnalité toxique",
+  "Get poisoned by a toxic slime":"Faites vous empoisonner par un slime toxique",  
+
+  "Pocket Edition Alpha":"Alpha Pocket Edition",
+  "Loot a Nether Reactor":"Pillez un réacteur du Nether",
+
+  "Mystic Wisdom":"Connaissances mystiques",
+  "Discover every type of loot in a Nether Reactor":"Découvrez toutes les reliques pouvant être trouvées dans un réacteur du Nether",
+
+
+  "Strange Biomes":"Lieux étranges",
+  "Visit any Incendium biome":"Visitez n'importe quel biome d'Incendium",  
+
+  "Soul Searcher":"Chercheur d'âmes",
+  "Discover every single Incendium biome":"Découvrez tout les biomes d'Incendium", 
+  
+  
+  "Piglin Pillage":"Pillage Piglin",
+  "Steal some loot from a Piglin Village":"Volez un village Piglin", 
+
+
+  "Pipe Dream":"Rêve de canalisations",
+  "Enter a pipeline, but beware the dangerous sentry blazes":"Entrez dans une canalisation, mais prenez gare aux dangereuses sentinelles",   
+
+  "Ceci n'est pas un blaze":"Ceci n'est pas un blaze",
+  "Extinguish a Pipeline Sentry":"Éliminez une sentinelle",   
+
+  "UNLIMITED POWER!!!":"AUCUNE LIMITE À MON POUVOIIIIR!!!",
+  "Get hit by a Sentry's lightning attack":"Faites vous toucher par l'attaque foudroyante d'une Sentinelle",  
+  
+  "Plumber's Plunder": "Les pensées d'un plombier",
+  "Retrieve a Pipeline's hidden treasure":"Trouvez le trésor caché des canalisations",
+
+
+
+
+
+
+
+
+
+
+  "Firestorm":"Tempête de feu",
+  "Turns spectral arrows into":"Tranforme les flèches spectrales",
+  "a powerful lightning attack":"en une puissante tempête enflammée",
+  
+  "Torch of Lunacy":"Torche de Folie",
+  "Emits a strange light which":"Émet une étrange lumière qui",
+  "blinds nearby desert blazes":"aveugle les Blazes du désert",
+  "if kept in your inventory":"lorsque vous l'avez dans votre inventaire",
+  
+  "Necrotic Shield":"Bouclier nécrotique",
+  "Reacts to attacks with":"Réagit aux attaque en diffusant",
+  "an explosion of death":"une fumée mortelle",
+  
+  "Prismatic Shield":"Bouclier prismatique",
+  "Reflects attacks with a":"Réfléchit les attaques avec",
+  "powerful spark of light":"une puissante étincelle lumineuse",
+  "Reflects long-range attacks with a":"Reflète les attaques à distance avec une",
+  "colorized":"flamboyante",
+  "spark of light":"étincelle de lumière",
+  
+  "Infernal Wings":"Ailes Infernales",
+  "A pair of armored wings":"Une paire d'ailes renforcées",
+  "forged from the scraps":"forgée grâce aux restes",
+  "of the Hovering Inferno's shields":"des boucliers du Brasier Plannant",
+  
+  "Infernal Feather":"Plume Infernale",
+  "The strong piece of scrap":"Un solide morceau de métal", 
+  "forged from the remains":"trouvé dans les restes",
+  "of the Hovering Inferno's shields":"des boucliers du Brasier Plannant",
+  
+  "Ghastling":"Bébé Ghast",
+  "Destroys ghast fireballs that it can see.":"Détruit des boules de feu dans son champ de vision.",
+  "Loves to eat fire charges.":"Adore manger des boules de feu.",
+  "Loyal but lazy":"Loyal mais paresseux",
+  
+  "Chilling Blade":"Lame glâcée",
+  "Freezes souls to the core":"Gêle les âmes en plein centre",
+  
+  "Blazing Hatchet":"Hachoir flamboyant",
+  "Packs a fiery, yet powerful punch":"Réserve de fougueux, mais aussi puissants dégâts",
+  
+  "Multiplex Crossbow":"Arbalète multi-tirs",
+  "Shoots a blast of fiery":"Tire une volée de flèche",
+  "arrows at a short-range":"à courte distance",
+  
+  "Hefty Pickaxe":"Pioche lourde",
+  "A nether-oriented excavator":"Un outil de fouille pour le Nether",
+  
+  "Greatsword of Sacrifice":"Espadon de Sacrifice",
+  "Drains the life of its wielder":"Aspire la santé de son manieur",
+  "to inflict massive damage":"pour infliger des dégats massifs",
+  
+  "Sentry's Wrath":"Courroux des Sentinelles",
+  "Turns spectral arrows into":"Transforme les flèches spectrales en",
+  "a slow, powerful attack.":"une lente, mais puissante attaque.",
+  "Beware the cooldown.":"Attention au temps de refroidissement.",
+  
+  "Voltaic Trident":"Trident Voltaïque",
+  "Feel its electrical power":"Sentez sa puissance électrique",
+  
+  "Unstable Powder":"Poudre instable",
+  "Emits a brilliant light when dropped":"Émet une lumière magique lorsqu'elle est jetée",
+  
+  "Scarlet Dagger":"Dague écarlate",
+  "Drains the life of its slain victims":"Absorbe la vie de ses victimes",
+  
+  "Withersbane":"Fléau des flétris",
+  "An ancient blade to smite":"Une lame ancienne faite pour",
+  "the impurity from the Nether":"châtier l'impurité dans le Nether",
+  
+  "Radiation Shield":"Bouclier radioactif",
+  "Releases radiation":"Libère une fumée radioactive",
+  "when blocking an attack":"lorsqu'une attaque est parée",
+  
+  "Daybreaker":"Extracteur d'Aube",
+  "Has a chance to drop gold":"Donne une chance d'obtenir de l'or",
+  "when killing any mob":"en tuant une créature",
+  
+  "Holy Wrath":"Fureur Sainte",
+  "Spawn a spiral of fireballs":"Libère un cercle de flammes à l'impact",
+  
+  "Scout's Battle Helm":"Parrure de Bataille de l'Éclaireur",
+  "You can hide, but you can't":"Vous pouvez vous cacher, mais vous ne",
+  "outrun TheDancyScout":"pouvez fuir TheDancyScout",
+  
+  "Warping Witherblade":"Lame Pernicieuse du Wither",
+  "Used by the wither king Mors to":"Utilisée par le roi Wither Mors pour",
+  "corrupt and torment the piglins":"corrompre et tourmenter les Piglins",
+  "and their ancient forests in war...":"et leur forêt durant leur guerre...",
+  
+  "Trailblazer":"Traceur de flammes",
+  "Fires more powerful arrows":"Envoie des flèches plus puissantes",
+  "the longer you pull the bow.":"plus la flèche est chargée.",
+  "Spectral arrows leave":"Les flèches spectrales laissent",
+  "a trail of blaze.":"une trace enflamée.",
+  
+  "Ragnarok":"Ragnarok",
+  "The longer you hold back the bow,":"Plus l'arc est chargé,",
+  "the more powerful the lightning you create":"plus puissante sera la foudre créée",
+  
+  "Hazmat Helmet":"Casque Hazmat",
+  "Hazmat Chestplate":"Manteau Hazmat",
+  "Hazmat Leggings":"Pantalon Hazmat",
+  "Hazmat Boots":"Bottes Hazmat",
+  "Protects the wearer from poison":"Protège le porteur du poison",
+  
+  "Scroll of Returning":"Parchemin de Retour",
+  "A long forgotten technique":"Une technique longtemps oubliée",
+  "to transport back":"permettant de revenir",
+  "to the overworld":"au monde normal",
+  
+  "Suspicious Brew":"Brassée suspecte",
+  
+  "Miner's Ale":"Bière d'excavateur",
+  
+  "Elixir of Undying":"Elixir de l'Impérissable",
+  
+  
+  
+  "Patron Item":"Objet de Patron"
+}

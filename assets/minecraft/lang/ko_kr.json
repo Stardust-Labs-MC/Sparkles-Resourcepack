@@ -1,0 +1,265 @@
+{
+  "language.name": "한국어",
+  "language.region": "대한민국",
+  "language.code": "ko_kr",
+  
+  
+  
+  
+  
+  
+  "Incendium":"인센디움",
+  "Explore the terrifying, and rewarding, Incendium Nether":"끔찍하고 보물이 가득한 인센디움의 네더를 모험해보세요",
+
+
+  "Darude - Firestorm":"다루드 - 파이어스톰",
+  "Experience the blazing heat of the Infernal Dunes":"지옥의 모래언덕의 타는듯한 열기를 체험하세요",  
+
+  "Light-Sensitive":"라이트-센서티브",
+  "Kill one of the odd Desert Blazes native to the Infernal Dunes":"지옥의 모래언덕에서 사는 데저트 블레이즈를 하나 처치하세요",
+
+  "Border of Life":"생명의 경계",
+  "Kill a Desert Blaze on the boundary of light and dark to get both of its drops":"빛과 어둠의 경계에서 데저트 블레이즈를 처치해서 드랍템을 모두 얻으세요",  
+
+  "Beyond the Embers":"불씨 너머",
+  "The shrine... demands a sacrifice.":"사원이... 재물을 요구합니다.",
+
+  "Risen from Fire":"불에서 부활하여",
+  "Sacrifice a nether star at an altar to summon the Hovering Inferno":"호버링 인페르노를 소환하기위해 네더의 별을 바치세요",
+
+  "Run.":"도망가.",
+  "You can't kill the Inferno. Just survive to win.":"당신은 호버링 인페르노를 죽일 수 없습니다. 이기기위해 살아남으세요.",  
+
+  "Fallen to Ashes":"잿더미로 떨어지다",
+  "Survive the Inferno's last spell and claim your reward":"호버링 인페르노의 마지막 주문에서 살아남고 보상을 얻으세요", 
+  
+  "Lunatic Mode":"미치광이 모드",
+  "Survive the Inferno's final phase with no armor":"갑옷없이 호버링 인페르노의 마지막 페이즈를 살아남으세요",  
+
+  "Forged in Flames":"화염속의 연마",
+  "Use the Infernal Feather to upgrade your elytra in a Smithing Table": "지옥의 깃털을 사용하여 대장장이 작업대를 이용해 겉날개를 업그레이드 하세요.",
+
+
+  "The Dust Settles":"먼지가 가라앉았다",
+  "Enter the Ash Barrens, the forgotten home to the Forbidden Castle":"금지된 성의 잊혀진 고향인 잿빛 황무지에 들어가세요",
+  
+  "In the Hall of the Piglin King":"피글린 킹의 전당에서",
+  "Enter a Forbidden Castle at your own peril":"위험을 무릅쓰고 금지된 성으로 들어가세요",  
+
+  "The Conqueror":"정복자",
+  "Storm a Forbidden Castle and kill every last piglin living inside":"금지된 성을 습격해서 안에 살고있는 모든 피글린을 죽이세요",  
+  
+  "Duel of the Fates":"운명의 결투",
+  "Give a Sentry a taste of its own medicine":"센트리에게 자신의 약물을 맛보게 하세요",  
+  
+
+  "Hellfire Mantle":"지옥불 맨틀",
+  "Enter the chaotic Volcanic Deltas":"혼돈의 화산 삼각주에 진입하세요",  
+  
+  "Treacherous Heights":"위험한 고원",
+  "Mine the exposed ancient debris in the height of the Volcanic Deltas":"화삭 삼각주 높이의 밖으로 노출된 고대잔해를 채굴하세요",  
+  
+
+  "Hellish Paradise":"지옥같은 낙원",
+  "Beware the beautiful and deadly Quartz Flats":"아름답고 치명적인 석영 평원을 조심하세요",  
+
+  "The Floor is Tears": "바닥이 다 눈물이야",
+  "Brave the Quartz Flats' frozen lava seas":"석영 평원의 얼어붙은 용암 바다에 맞서세요",
+
+  "Ghast Buster":"가스트 버스터즈",
+  "Kill a ghast on its home turf above the frozen lava seas":"얼어붙은 용암 바다 위 본거지에 살고있는 가스트를 죽이세요",
+
+  "\"Special\" Delivery":"\"Special\" Delivery",
+  "Afflict a ghast with Speed, Regeneration and Invisibility -- then kill it to obtain its Ghastling":"가스트를 스피드, 재생, 투명화로 혼란스럽게 한 뒤에 -- 죽여서 Ghastling을 얻으세요",  
+
+  "Feed the Beast":"짐승에게 먹이주기",
+  "Feed a Ghastling its odd favorite food - fire charges - to make it follow you":"Feed a Ghastling its odd favorite food - fire charges - to make it follow you",  
+
+  "You Fool!":"이 바보!",
+  "Kill the skeleton chef Torte and loot his kitchen":"스켈레톤 요리사 Torte를 죽이고 그의 부엌을 약탈하세요",  
+  
+  "Kitchen's Treasure":"부엌의 보물",
+  "Find the hidden treasure in the Quartz Kitchen":"석영 부엌에 있는 숨겨진 보물을 찾으세요", 
+  
+  "An Illager Refuge?":"우민 피난처인가?",
+  "The Illagers' Sanctum might not be so holy...":"우민들의 성소는 그다지 거룩하지 않을수도 있습니다", 
+
+
+  "Ancient Battlefield":"고대의 전장",
+  "Enter the Withered Forest, ancestral battleground of the Piglins and Wither Skeletons":"선조 피글린과 위더 스켈레톤의 전장인 위더화된 숲으로 가세요",
+
+  "Apparitions":"유령",
+  "Kill a restless spirit":"잠들지 못하는 영혼을 죽이세요",  
+
+  "Ghostbuster":"고스트 버스터즈",
+  "Put on some chain armor and use it to dispel a restless spirit":"쇠사슬 갑옷을 입고 잠들지못한 영혼들을 쫒는데 사용하세요",  
+
+  "Alchemical Experiments":"연금술 실험",
+  "The piglin's experiments backfired leading to a dangerous situation":"피글린들의 실험은 위험한 상황으로 가는 역효과를 냈습니다",  
+
+  "Radioactive":"방사성",
+  "Enter the nuclear wastelands of the Toxic Heap":"방사능 무더기의 핵 황무지에 들어가세요",
+
+  "Toxic Personality":"불량한 성격",
+  "Get poisoned by a toxic slime":"토식 슬라임에게 중독 되세요",  
+
+  "Pocket Edition Alpha":"포켓 에디션 알파",
+  "Loot a Nether Reactor":"네더 원자로를 약탈하세요",
+
+  "Mystic Wisdom":"신비로운 현인",
+  "Discover every type of loot in a Nether Reactor":"네더 원자로의 모든 유형의 전리품을 발견하세요",
+
+
+  "Strange Biomes":"이상한 생물군계",
+  "Visit any Incendium biome":"아무 인센디움의 생물군계를 방문하세요",  
+
+  "Soul Searcher":"영혼 탐색자",
+  "Discover every single Incendium biome":"인센디움의 모든 생물군계를 탐험하세요", 
+  
+  
+  "Piglin Pillage":"돼지 약탈",
+  "Steal some loot from a Piglin Village":"피글린 마을의 전리품을 훔쳐가세요", 
+
+
+  "Pipe Dream":"몽상",
+  "Enter a pipeline, but beware the dangerous sentry blazes":"파이프라인에 들어가세요, 하지만 위험한 센트리 블레이즈를 조심하세요",   
+
+  "Ceci n'est pas un blaze":"Ceci n'est pas un Blaze(이건 블레이즈가 아닙니다)",
+  "Extinguish a Pipeline Sentry":"파이프라인 센트리의 목숨을 꺼버리세요",   
+
+  "UNLIMITED POWER!!!":"무한한 힘!!!",
+  "Get hit by a Sentry's lightning attack":"센트리의 번개공격을 맞으세요",  
+  
+  "Plumber's Plunder": "배관공의 약탈",
+  "Retrieve a Pipeline's hidden treasure":"파이프라인의 숨겨진 보물을 찾으세요",
+
+
+
+
+
+
+
+
+
+
+  "Firestorm":"파이어 스톰",
+  "Turns spectral arrows into":"발광 화살을",
+  "a powerful lightning attack":"강력한 번개공격으로 바꿉니다",
+  
+  "Torch of Lunacy":"광란의 횃불",
+  "Emits a strange light which":"인벤토리에 가지고 있을때",
+  "blinds nearby desert blazes":"이상한 빛을 발사해",
+  "if kept in your inventory":"근처의 데저트 블레이즈의 눈을 멀게합니다",
+  
+  "Necrotic Shield":"괴저성 방패",
+  "Reacts to attacks with":"죽음의 폭발로",
+  "an explosion of death":"공격에 반격합니다",
+  
+  "Prismatic Shield":"프리즘 쉴드",
+  "Reflects attacks with a":"강력한 빛의 반짝임으로",
+  "powerful spark of light":"공격을 반사합니다",
+  "Reflects long-range attacks with a":"색색깔의",
+  "colorized":"빛의 반짝임으로",
+  "spark of light":"먼거리의 공격을 반사합니다",
+  
+  "Infernal Wings":"지옥의 날개",
+  "A pair of armored wings":"호버링 인페르노의 방패에서 나온",
+  "forged from the scraps":"고물로 주조한",
+  "of the Hovering Inferno's shields":"한쌍의 단단한 날개 입니다",
+  
+  "Infernal Feather":"지옥의 깃털",
+  "The strong piece of scrap":"호버링 인페르노의 방패", 
+  "forged from the remains":"잔해에서 나온",
+  "of the Hovering Inferno's shields":"강력한 고물 조각입니다",
+  
+  "Ghastling":"가슬링",
+  "Destroys ghast fireballs that it can see.":"눈에 보이는 가스트의 불덩어리를 파괴합니다.",
+  "Loves to eat fire charges.":"Loves to eat fire charges.",
+  "Loyal but lazy":"Loyal but lazy",
+  
+  "Chilling Blade":"칠링 블레이드",
+  "Freezes souls to the core":"영혼의 중심까지 얼어붙게 합니다",
+  
+  "Blazing Hatchet":"이글거리는 손도끼",
+  "Packs a fiery, yet powerful punch":"화끈하면서도 강력한 펀치를 담습니다.",
+  
+  "Multiplex Crossbow":"다중발사 쇠뇌",
+  "Shoots a blast of fiery":"짧은 거리에서",
+  "arrows at a short-range":"수많은 화살을 쏱아붙습니다",
+  
+  "Hefty Pickaxe":"장대한 곡괭이",
+  "A nether-oriented excavator":"네더 지향 굴착기",
+  
+  "Greatsword of Sacrifice":"위대한 희생의검",
+  "Drains the life of its wielder":"막대한 피해를 주며",
+  "to inflict massive damage":"휘두르는 사람의 생명을 흡수합니다",
+  
+  "Sentry's Wrath":"센트리의 분노",
+  "Turns spectral arrows into":"발광 화살을",
+  "a slow, powerful attack.":"느리고 강한 공격으로 바꿉니다.",
+  "Beware the cooldown.":"쿨타임을 조심하세요.",
+  
+  "Voltaic Trident":"볼트 삼지창",
+  "Feel its electrical power":"백만볼트의 힘을 느껴보세요",
+  
+  "Unstable Powder":"불안정한 파우더",
+  "Emits a brilliant light when dropped":"떨어뜨렸을 때 눈부신 빛을 방출합니다.",
+  
+  "Scarlet Dagger":"주홍 단검",
+  "Drains the life of its slain victims":"살해당한 희생자의 생명을 흡수합니다",
+  
+  "Withersbane":"위더스베인",
+  "An ancient blade to smite":"네더의 불순함을 찌르기위한",
+  "the impurity from the Nether":"고대의 칼날",
+  
+  "Radiation Shield":"방사성 방패",
+  "Releases radiation":"공격을 막을때 마다",
+  "when blocking an attack":"방사능을 방출합니다",
+  
+  "Daybreaker":"데이브레이커",
+  "Has a chance to drop gold":"아무 몹을 죽일때마다 일정확률로",
+  "when killing any mob":"금을 드랍합니다",
+  
+  "Holy Wrath":"신성한 분노",
+  "Spawn a spiral of fireballs":"나선형의 불덩어리를 만들어냅니다.",
+  
+  "Scout's Battle Helm":"정찰병의 전투 헬멧",
+  "You can hide, but you can't":"숨을수는 있겠죠,",
+  "outrun TheDancyScout":"그러나 TheDancyScout에게 벗어날수는 없습니다",
+  
+  "Warping Witherblade":"워핑 위더블레이드",
+  "Used by the wither king Mors to":"위더 왕 Mors가 고대 숲속의 전쟁에서",
+  "corrupt and torment the piglins":"피글린들을 타락시키고 고통을 줄때",
+  "and their ancient forests in war...":"사용하던 무기입니다",
+  
+  "Trailblazer":"트레일블레이저",
+  "Fires more powerful arrows":"화살을 더 오래 당길때 마다",
+  "the longer you pull the bow.":"더 강한 화살을 쏩니다.",
+  "Spectral arrows leave":"발광 화살이",
+  "a trail of blaze.":"불길 궤적을 남기고 발사됩니다.",
+  
+  "Ragnarok":"라그나로크",
+  "The longer you hold back the bow,":"활시위를 점점 뒤로 당길때마다,",
+  "the more powerful the lightning you create":"점점 더 강력한 번개를 만들어 냅니다",
+  
+  "Hazmat Helmet":"위험물질 투구",
+  "Hazmat Chestplate":"위험물질 갑옷",
+  "Hazmat Leggings":"위험물질 레깅스",
+  "Hazmat Boots":"위험물질 부츠",
+  "Protects the wearer from poison":"착용자를 독으로 부터 보호합니다",
+  
+  "Scroll of Returning":"귀환서",
+  "A long forgotten technique":"잊혀진 오래전의 기술로",
+  "to transport back":"오버월드로",
+  "to the overworld":"되돌아 갑니다",
+  
+  "Suspicious Brew":"수상한 맥주",
+  
+  "Miner's Ale":"광부의 맥주",
+  
+  "Elixir of Undying":"불사의 엘릭서",
+  
+  
+  
+  "Patron Item":"Patron Item"
+}
