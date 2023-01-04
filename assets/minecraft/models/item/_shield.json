@@ -136,40 +136,40 @@
       "predicate": {
         "custom_model_data": 1450300
       },
-      "model": "item/necrotic_shield"
+      "model": "incendium:item/necrotic_shield"
     },
     {
       "predicate": {
         "custom_model_data": 1450300,
         "blocking": 1
       },
-      "model": "item/necrotic_shield/blocking"
+      "model": "incendium:item/necrotic_shield/blocking"
     },
     {
       "predicate": {
         "custom_model_data": 1450301
       },
-      "model": "item/prismatic_shield"
+      "model": "incendium:item/prismatic_shield"
     },
     {
       "predicate": {
         "custom_model_data": 1450301,
         "blocking": 1
       },
-      "model": "item/prismatic_shield/blocking"
+      "model": "incendium:item/prismatic_shield/blocking"
     },
     {
       "predicate": {
         "custom_model_data": 1450302
       },
-      "model": "item/radiation_shield"
+      "model": "incendium:item/radiation_shield"
     },
     {
       "predicate": {
         "custom_model_data": 1450302,
         "blocking": 1
       },
-      "model": "item/radiation_shield/blocking"
+      "model": "incendium:item/radiation_shield/blocking"
     }
   ]
 }
