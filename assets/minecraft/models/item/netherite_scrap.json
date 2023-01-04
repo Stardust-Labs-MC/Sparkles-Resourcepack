@@ -8,7 +8,7 @@
             "predicate": {
               "custom_model_data": 1450501
             },
-            "model": "incendium:item/charm"
+            "model": "item/charm"
         }
     ]
 }
