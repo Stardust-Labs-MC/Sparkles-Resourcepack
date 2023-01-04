@@ -8,7 +8,7 @@
             "predicate": {
               "custom_model_data": 1450003
             },
-            "model": "item/chilling"
+            "model": "incendium:item/chilling"
         }
     ]
 }

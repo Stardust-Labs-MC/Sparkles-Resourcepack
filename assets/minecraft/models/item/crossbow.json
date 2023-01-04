@@ -64,14 +64,14 @@
             "predicate": {
                 "custom_model_data": 1450100
             },
-            "model": "item/patron/holy_wrath"
+            "model": "incendium:item/patron/holy_wrath"
         },
         {
             "predicate": {
                 "custom_model_data": 1450100,
                 "pulling": 1
             },
-            "model": "item/patron/holy_wrath/pulling_0"
+            "model": "incendium:item/patron/holy_wrath/pulling_0"
         },
         {
             "predicate": {
@@ -79,7 +79,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "item/patron/holy_wrath/pulling_1"
+            "model": "incendium:item/patron/holy_wrath/pulling_1"
         },
         {
             "predicate": {
@@ -87,14 +87,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "item/patron/holy_wrath/pulling_2"
+            "model": "incendium:item/patron/holy_wrath/pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 1450100,
                 "charged": 1
             },
-            "model": "item/patron/holy_wrath/arrow"
+            "model": "incendium:item/patron/holy_wrath/arrow"
         },
         {
             "predicate": {
@@ -102,20 +102,20 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "item/patron/holy_wrath/firework"
+            "model": "incendium:item/patron/holy_wrath/firework"
         },
         {
             "predicate": {
                 "custom_model_data": 1450101
             },
-            "model": "item/firestorm"
+            "model": "incendium:item/firestorm"
         },
         {
             "predicate": {
                 "custom_model_data": 1450101,
                 "pulling": 1
             },
-            "model": "item/firestorm/pulling_0"
+            "model": "incendium:item/firestorm/pulling_0"
         },
         {
             "predicate": {
@@ -123,7 +123,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "item/firestorm/pulling_1"
+            "model": "incendium:item/firestorm/pulling_1"
         },
         {
             "predicate": {
@@ -131,14 +131,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "item/firestorm/pulling_2"
+            "model": "incendium:item/firestorm/pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 1450101,
                 "charged": 1
             },
-            "model": "item/firestorm/arrow"
+            "model": "incendium:item/firestorm/arrow"
         },
         {
             "predicate": {
@@ -146,20 +146,20 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "item/firestorm/firework"
+            "model": "incendium:item/firestorm/firework"
         },
         {
             "predicate": {
                 "custom_model_data": 1450102
             },
-            "model": "item/multiplex"
+            "model": "incendium:item/multiplex"
         },
         {
             "predicate": {
                 "custom_model_data": 1450102,
                 "pulling": 1
             },
-            "model": "item/multiplex/pulling_0"
+            "model": "incendium:item/multiplex/pulling_0"
         },
         {
             "predicate": {
@@ -167,7 +167,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "item/multiplex/pulling_1"
+            "model": "incendium:item/multiplex/pulling_1"
         },
         {
             "predicate": {
@@ -175,14 +175,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "item/multiplex/pulling_2"
+            "model": "incendium:item/multiplex/pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 1450102,
                 "charged": 1
             },
-            "model": "item/multiplex/arrow"
+            "model": "incendium:item/multiplex/arrow"
         },
         {
             "predicate": {
@@ -190,20 +190,20 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "item/multiplex/firework"
+            "model": "incendium:item/multiplex/firework"
         },
         {
             "predicate": {
                 "custom_model_data": 1450103
             },
-            "model": "item/sentrys_wrath"
+            "model": "incendium:item/sentrys_wrath"
         },
         {
             "predicate": {
                 "custom_model_data": 1450103,
                 "pulling": 1
             },
-            "model": "item/sentrys_wrath/pulling_0"
+            "model": "incendium:item/sentrys_wrath/pulling_0"
         },
         {
             "predicate": {
@@ -211,7 +211,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "item/sentrys_wrath/pulling_1"
+            "model": "incendium:item/sentrys_wrath/pulling_1"
         },
         {
             "predicate": {
@@ -219,14 +219,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "item/sentrys_wrath/pulling_2"
+            "model": "incendium:item/sentrys_wrath/pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 1450103,
                 "charged": 1
             },
-            "model": "item/sentrys_wrath/arrow"
+            "model": "incendium:item/sentrys_wrath/arrow"
         },
         {
             "predicate": {
@@ -234,7 +234,7 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "item/sentrys_wrath/firework"
+            "model": "incendium:item/sentrys_wrath/firework"
         }
     ]
 }
