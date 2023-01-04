@@ -8,7 +8,7 @@
         "predicate": {
                 "custom_model_data": 1450400
             },
-            "model": "incendium:item/lunacy"
+            "model": "item/lunacy"
         }
     ]
 }

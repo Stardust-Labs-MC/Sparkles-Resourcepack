@@ -1,0 +1,6 @@
+{
+    "parent": "item/multiplex",
+    "textures": {
+        "layer0": "item/multiplex"
+    }
+}
