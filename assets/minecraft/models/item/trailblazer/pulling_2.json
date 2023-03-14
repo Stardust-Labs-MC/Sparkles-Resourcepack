@@ -1,0 +1,6 @@
+{
+    "parent": "item/trailblazer",
+    "textures": {
+        "layer0": "item/trailblazer/pulling_2"
+    }
+}

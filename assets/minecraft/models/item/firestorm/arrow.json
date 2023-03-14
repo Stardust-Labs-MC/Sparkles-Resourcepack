@@ -1,0 +1,6 @@
+{
+    "parent": "item/firestorm",
+    "textures": {
+        "layer0": "item/firestorm/arrow"
+    }
+}

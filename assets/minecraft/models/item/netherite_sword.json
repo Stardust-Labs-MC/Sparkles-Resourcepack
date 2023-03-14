@@ -9,31 +9,31 @@
             "predicate": {
               "custom_model_data": 1450000
             },
-            "model": "incendium:item/patron/daybreaker"
+            "model": "item/patron/daybreaker"
         },
 		{
             "predicate": {
               "custom_model_data": 1450001
             },
-            "model": "incendium:item/patron/witherblade"
+            "model": "item/patron/witherblade"
         },
 		{
             "predicate": {
               "custom_model_data": 1450003
             },
-            "model": "incendium:item/chilling"
+            "model": "item/chilling"
         },
         {
             "predicate": {
             	"custom_model_data": 1450004
             },
-            "model": "incendium:item/sacrifice"
+            "model": "item/sacrifice"
         },
         {
             "predicate": {
               "custom_model_data": 1450005
             },
-            "model": "incendium:item/vampire"
+            "model": "item/vampire"
         }
     ]
 }
