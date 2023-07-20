@@ -1,6 +1,0 @@
-{
-    "parent": "item/ragnarok",
-    "textures": {
-        "layer0": "item/ragnarok"
-    }
-}

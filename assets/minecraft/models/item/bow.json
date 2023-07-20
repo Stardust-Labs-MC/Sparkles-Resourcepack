@@ -51,14 +51,14 @@
             "predicate": {
                 "custom_model_data": 1450104
             },
-            "model": "item/trailblazer"
+            "model": "incendium:item/trailblazer"
         },
         {
             "predicate": {
                 "custom_model_data": 1450104,
                 "pulling": 1
             },
-            "model": "item/trailblazer/pulling_0"
+            "model": "incendium:item/trailblazer/pulling_0"
         },
         {
             "predicate": {
@@ -66,7 +66,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/trailblazer/pulling_1"
+            "model": "incendium:item/trailblazer/pulling_1"
         },
         {
             "predicate": {
@@ -74,20 +74,20 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/trailblazer/pulling_2"
+            "model": "incendium:item/trailblazer/pulling_2"
         },
 		{
             "predicate": {
                 "custom_model_data": 1450105
             },
-            "model": "item/ragnarok"
+            "model": "incendium:item/ragnarok"
         },
         {
             "predicate": {
                 "custom_model_data": 1450105,
                 "pulling": 1
             },
-            "model": "item/ragnarok/pulling_0"
+            "model": "incendium:item/ragnarok/pulling_0"
         },
         {
             "predicate": {
@@ -95,7 +95,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/ragnarok/pulling_1"
+            "model": "incendium:item/ragnarok/pulling_1"
         },
         {
             "predicate": {
@@ -103,7 +103,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/ragnarok/pulling_2"
+            "model": "incendium:item/ragnarok/pulling_2"
         },
         {
             "predicate": {
@@ -111,7 +111,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/trailblazer/pulling_3"
+            "model": "incendium:item/trailblazer/pulling_3"
         },
         {
             "predicate": {
@@ -119,7 +119,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/ragnarok/pulling_3"
+            "model": "incendium:item/ragnarok/pulling_3"
         },
         {
             "predicate": {
@@ -127,7 +127,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/trailblazer/pulling_4"
+            "model": "incendium:item/trailblazer/pulling_4"
         },
         {
             "predicate": {
@@ -135,7 +135,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/ragnarok/pulling_4"
+            "model": "incendium:item/ragnarok/pulling_4"
         },
         {
             "predicate": {
@@ -143,7 +143,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/trailblazer/pulling_5"
+            "model": "incendium:item/trailblazer/pulling_5"
         },
         {
             "predicate": {
@@ -151,7 +151,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/ragnarok/pulling_5"
+            "model": "incendium:item/ragnarok/pulling_5"
         },
         {
             "predicate": {
@@ -159,7 +159,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/trailblazer/pulling_6"
+            "model": "incendium:item/trailblazer/pulling_6"
         },
         {
             "predicate": {
@@ -167,7 +167,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/ragnarok/pulling_6"
+            "model": "incendium:item/ragnarok/pulling_6"
         }
     ]
 }
