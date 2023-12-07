@@ -63,6 +63,7 @@
     "biome.terralith.skylands_summer": "Islas del Cielo (Verano)",
     "biome.terralith.skylands_winter": "Islas del Cielo (Invierno)",
     "biome.terralith.snowy_badlands": "Tierras baldías nevada",
+    "biome.terralith.snowy_cherry_grove": "Cerezal nevada",
     "biome.terralith.snowy_maple_forest": "Bosque de Arce nevada",
     "biome.terralith.snowy_shield": "Escudo nevada",
     "biome.terralith.steppe": "Estepa",
@@ -120,6 +121,5 @@
     "structure.terralith.underground/old_refinery": "Rifeneria Vieja",
     "structure.terralith.underground/sunken_tower": "Torre Hundida",
     "structure.terralith.underground/witch_hut": "Cabaña de Bruja",
-    "structure.terralith.underground/frosted_dungeon": "Sala de Monstros Helada",
-    "biome.terralith.snowy_cherry_grove": "Cerezal nevada"
+    "structure.terralith.underground/frosted_dungeon": "Sala de Monstros Helada"
 }

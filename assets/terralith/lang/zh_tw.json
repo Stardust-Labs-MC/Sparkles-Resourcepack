@@ -63,6 +63,7 @@
     "biome.terralith.skylands_summer": "夏季空島",
     "biome.terralith.skylands_winter": "冬季空島",
     "biome.terralith.snowy_badlands": "積雪惡地",
+    "biome.terralith.snowy_cherry_grove": "積雪櫻花林",
     "biome.terralith.snowy_maple_forest": "積雪楓葉林",
     "biome.terralith.snowy_shield": "積雪地盾",
     "biome.terralith.steppe": "乾草原",
@@ -120,6 +121,5 @@
     "structure.terralith.underground/old_refinery": "舊煉油廠",
     "structure.terralith.underground/sunken_tower": "沉沒高塔",
     "structure.terralith.underground/witch_hut": "女巫小屋",
-    "structure.terralith.underground/frosted_dungeon": "霜凍地牢",
-    "biome.terralith.snowy_cherry_grove": "積雪櫻花林"
+    "structure.terralith.underground/frosted_dungeon": "霜凍地牢"
 }
