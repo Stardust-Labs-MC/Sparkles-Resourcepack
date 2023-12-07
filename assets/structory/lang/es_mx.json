@@ -1,0 +1,17 @@
+{
+    "structure.structory.boat": "Barca",
+    "structure.structory.firetower": "Torre de Control de Incendio",
+    "structure.structory.jungle_ruin": "Ruinas de jungla",
+    "structure.structory.outcast_villager_desert": "Aldeano Vagbundo del Desierto",
+    "structure.structory.outcast_villager_grassy": "Aldeano vagabundo yerboso",
+    "structure.structory.ruin_grassy": "Ruina pastoso",
+    "structure.structory.northern_ruin": "Ruina norteña",
+    "structure.structory.swamp_ruin": "Ruina del pantano",
+    "structure.structory.taiga_ruin_surface": "Ruina Taiga en superficia",
+    "structure.structory.taiga_ruin_underground": "Ruin de Taiga bajo tierra",
+    "structure.structory.abandoned_camp": "Campamento abandonado",
+    "structure.structory.abandoned_chapel": "Capilla abandonada",
+    "structure.structory.dense_forest_ruin": "Ruina de Bosque densa",
+    "structure.structory.graveyard": "Cementerio",
+    "structure.structory.old_manor": "Palacete Vieja"
+}

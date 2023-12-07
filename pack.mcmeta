@@ -1,6 +1,31 @@
 {
   "pack": {
-    "pack_format": 12,
-    "description": "Optionnal textures for Incendium items and mobs"
+    "pack_format": 18,
+	"supported_formats": [15,18]
+    "description": "Translations and optional textures for the Stardust Labs projects"
   }
+}
+
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            18,
+            26
+        ],
+        "description": [
+            {
+                "text": "Sparkles: Stardust Labs Resourcepack",
+                "color": "#26933c"
+            },
+            {
+                "text": " - Translations and Textures\nCreated by ",
+                "color": "gray"
+            },
+            {
+                "text": "Stardust Labs",
+                "color": "#ead983"
+            }
+        ]
+    }
 }

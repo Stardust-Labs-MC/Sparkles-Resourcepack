@@ -1,0 +1,17 @@
+{
+    "structure.structory.boat": "Barca",
+    "structure.structory.firetower": "Torre antincendio",
+    "structure.structory.jungle_ruin": "Rovine della giungla",
+    "structure.structory.outcast_villager_desert": "Villico emarginato del deserto",
+    "structure.structory.outcast_villager_grassy": "Villico emarginato delle pianure",
+    "structure.structory.ruin_grassy": "Rovine delle pianure",
+    "structure.structory.northern_ruin": "Rovine del nord",
+    "structure.structory.swamp_ruin": "Rovine della palude",
+    "structure.structory.taiga_ruin_surface": "Rovine della taiga",
+    "structure.structory.taiga_ruin_underground": "Rovine sotterranee della taiga",
+    "structure.structory.abandoned_camp": "Accampamento abbandonato",
+    "structure.structory.abandoned_chapel": "Cappella abbandonata",
+    "structure.structory.dense_forest_ruin": "Rovine della foresta oscura",
+    "structure.structory.graveyard": "Cimitero",
+    "structure.structory.old_manor": "Vecchio maniero"
+}

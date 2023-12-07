@@ -1,0 +1,17 @@
+{
+    "structure.structory.boat": "Csónak",
+    "structure.structory.firetower": "Tűztorony",
+    "structure.structory.jungle_ruin": "Dzsungel Rom",
+    "structure.structory.outcast_villager_desert": "Kitaszított Sivatagi Falusi",
+    "structure.structory.outcast_villager_grassy": "Kitaszított Füves Falusi",
+    "structure.structory.ruin_grassy": "Füves Rom",
+    "structure.structory.northern_ruin": "Északi Rom",
+    "structure.structory.swamp_ruin": "Mocsári Rom",
+    "structure.structory.taiga_ruin_surface": "Felszíni Tajga Rom",
+    "structure.structory.taiga_ruin_underground": "Földalatti Tajga Rom",
+    "structure.structory.abandoned_camp": "Elhagyatott Tábor",
+    "structure.structory.abandoned_chapel": "Elhagyatott Kápolna",
+    "structure.structory.dense_forest_ruin": "Sűrű Erdei Rom",
+    "structure.structory.graveyard": "Temető",
+    "structure.structory.old_manor": "Öreg Kastély"
+}
