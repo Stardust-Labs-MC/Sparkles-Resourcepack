@@ -1,6 +1,0 @@
-{
-    "parent": "item/patron/holy_wrath",
-    "textures": {
-        "layer0": "item/patron/holy_wrath/firework"
-    }
-}
