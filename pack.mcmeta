@@ -1,23 +1,51 @@
 {
-    "pack": {
-        "pack_format": 15,
-        "supported_formats": [
-            18,
-            22
-        ],
-        "description": [
-            {
-                "text": "Sparkles",
-                "color": "#ead983"
-            },
-            {
-                "text": " - Textures/l10n\nCreated by ",
-                "color": "gray"
-            },
-            {
-                "text": "Stardust Labs",
-                "color": "#683edd"
-            }
-        ]
-    }
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": [
+			15,
+			22
+		],
+		"description": [
+			{
+				"text": "§lS",
+				"color": "#f0c636"
+			},
+			{
+				"text": "§lp",
+				"color": "#26cc85"
+			},
+			{
+				"text": "§la",
+				"color": "#268bcc"
+			},
+			{
+				"text": "§lr",
+				"color": "#dc76db"
+			},
+			{
+				"text": "§lk",
+				"color": "#aa6cea"
+			},
+			{
+				"text": "§ll",
+				"color": "#ea9dd0"
+			},
+			{
+				"text": "§le",
+				"color": "#9de9ea"
+			},
+			{
+				"text": "§ls",
+				"color": "#e78d58"
+			},
+			{
+				"text": " - Textures/l10n\nCreated by ",
+				"color": "gray"
+			},
+			{
+				"text": "Stardust Labs",
+				"color": "#683edd"
+			}
+		]
+	}
 }
